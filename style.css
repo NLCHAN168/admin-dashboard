@@ -1,0 +1,13 @@
+.container{
+    background-color: aquamarine;
+    border-color: red;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    grid-template-rows: 10% 45% 45%;
+    gap: 5px;
+}
+
+.header {
+    background-color: yellow;
+    display: grid;
+}
